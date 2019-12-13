@@ -1,10 +1,12 @@
 # microsoft-ai-bootscamp
 
+![Global AI Bootcamp Beijing](docs/images/ai-bootcamp.jpg)
+
 Microsoft AI Bootscamp
 
 1. [Global AI Bootcamp](https://globalai.community/)
 1. [Global AI Bootcamp Beijing](https://globalai.community/global-ai-bootcamp/china-beijing)
-1. [Global AI Bootcamp Beijing 活动性报名](http://www.huodongxing.com/event/7522661425200)
+1. [Global AI Bootcamp Beijing 活动行报名](http://www.huodongxing.com/event/7522661425200)
 
 ## Resources
 

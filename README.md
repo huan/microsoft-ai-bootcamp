@@ -16,6 +16,6 @@ Microsoft AI Bootscamp
 
 ## Organizers
 
-- Huan
-- Yanping
-- Jiarui
+- [Huan](https://github.com/huan) [(李卓桓)](http://linkedin.com/in/zixia) [Wechaty](https://github.com/wechaty/wechaty) Author, <zixia@zixia.net>
+- Yanping CHEN (陈堰平)
+- [Rui](https://github.com/lijiarui),[(李佳芮)](https://lijiarui.github.io) [Wechaty](https://github.com/wechaty/wechaty) Co-author, Founder of [JuziBot](https://www.botorange.com/)

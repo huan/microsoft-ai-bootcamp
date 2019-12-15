@@ -8,6 +8,10 @@ Microsoft AI Bootscamp
 1. [Global AI Bootcamp Beijing](https://globalai.community/global-ai-bootcamp/china-beijing)
 1. [Global AI Bootcamp Beijing 活动行报名](http://www.huodongxing.com/event/7522661425200)
 
+## 2019 AI Bootcamp Beijing
+
+![2019 AI Bootcamp Beijing](docs/images/2019-ai-bootcamp-beijing.jpg)
+
 ## Resources
 
 1. [MVP项目介绍](https://docs.google.com/presentation/d/1TDh6-IHCRPnesyLMTtXvi3thulLJXwhEdLeBdTNR6xU/edit?usp=sharing)

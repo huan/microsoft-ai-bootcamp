@@ -12,6 +12,10 @@ Microsoft AI Bootscamp
 
 ![2019 AI Bootcamp Beijing](docs/images/2019-ai-bootcamp-beijing.jpg)
 
+## Live Streaming
+
+You can watch the live stream of the Global AI Bootscamp Beijing 2019 from [YouTube](https://youtu.be/jKbMFxDw0T4).
+
 ## Resources
 
 1. [MVP项目介绍](https://docs.google.com/presentation/d/1TDh6-IHCRPnesyLMTtXvi3thulLJXwhEdLeBdTNR6xU/edit?usp=sharing)

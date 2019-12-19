@@ -28,7 +28,7 @@ Microsoft AI Bootscamp
 1. Curly (康康), Community Assistant of MVP Program, 现场签到
 1. Dachuan WANG (王大川), Founder & CEO of DataFun, 活动策划支持
 1. Fei HONG (洪飞), Operating Manager of DataFun, 活动策划支持
-1. Ruoxin SONG (送若芯), Artist Student, Central Academy Of Fine Arts, 视频后期剪辑
+1. Ruoxin SONG (宋若芯), Artist Student, Central Academy Of Fine Arts, 视频后期剪辑
 1. Qian LI (李乾), Community Manager of Juzi.BOT, 现场摄像支持
 1. Yuan GAO (高原), CTO of Juzi.BOT, 现场技术支持
 1. Rui LI (李锐), AI Product Manager of Microsoft, 演讲嘉宾邀请支持

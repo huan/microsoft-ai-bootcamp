@@ -19,7 +19,7 @@ Microsoft AI Bootscamp
 ### Organizers
 
 1. [Huan](https://github.com/huan) [(李卓桓)](http://linkedin.com/in/zixia) Co-author of [Wechaty](https://github.com/wechaty/wechaty), PreAngel Partner <zixia@zixia.net>
-1. Yanping CHEN (陈堰平), Microsoft AI MVP(ex)
+1. Yanping CHEN (陈堰平), Data&AI Cloud Solution Architect of Microsoft, ex MVP
 1. [Rui](https://github.com/lijiarui),[(李佳芮)](https://lijiarui.github.io) Co-author of [Wechaty](https://github.com/wechaty/wechaty), Founder of [JuziBot](https://www.botorange.com/)
 
 ### Special Thanks

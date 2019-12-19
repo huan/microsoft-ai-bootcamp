@@ -12,9 +12,26 @@ Microsoft AI Bootscamp
 
 ![2019 AI Bootcamp Beijing](docs/images/2019-ai-bootcamp-beijing.jpg)
 
-## Video Play Back
+### Speaker Videos
 
-You can watch the live stream of the Global AI Bootscamp Beijing 2019 from [YouTube](https://youtu.be/jKbMFxDw0T4).
+- Global AI Bootscamp Beijing 2019: [YouTube](https://youtu.be/jKbMFxDw0T4)
+
+### Organizers
+
+1. [Huan](https://github.com/huan) [(李卓桓)](http://linkedin.com/in/zixia) Co-author of [Wechaty](https://github.com/wechaty/wechaty), PreAngel Partner <zixia@zixia.net>
+1. Yanping CHEN (陈堰平), Microsoft AI MVP(ex)
+1. [Rui](https://github.com/lijiarui),[(李佳芮)](https://lijiarui.github.io) Co-author of [Wechaty](https://github.com/wechaty/wechaty), Founder of [JuziBot](https://www.botorange.com/)
+
+### Special Thanks
+
+1. Kris LIANG (梁迪), Community Manager of MVP Program, 现场人气支持
+1. Curly (康康), Community Assistant of MVP Program, 现场签到
+1. Dachuan WANG (王大川), Founder & CEO of DataFun, 活动策划支持
+1. Fei HONG (洪飞), Operating Manager of DataFun, 活动策划支持
+1. Ruoxin SONG (送若芯), Artist Student, Central Academy Of Fine Arts, 视频后期剪辑
+1. Qian LI (李乾), Community Manager of Juzi.BOT, 现场摄像支持
+1. Yuan GAO (高原), CTO of Juzi.BOT, 现场技术支持
+1. Rui LI (李锐), AI Product Manager of Microsoft, 演讲嘉宾邀请支持
 
 ## Resources
 
@@ -23,8 +40,3 @@ You can watch the live stream of the Global AI Bootscamp Beijing 2019 from [YouT
 1. [Global AI Bootcamp Keynote](https://globalai.community/global-ai-bootcamp/information/keynote/) ([YouTube](https://www.youtube.com/watch?v=31SUgJM9YUI))
 1. [Plug and Play China Headquaters Intro](https://docs.google.com/presentation/d/1H5iJj2OBkkvgimdC-V85Sc5NXoOEYLfgsxy2mQkIF3Y/edit?usp=sharing)
 
-## Organizers
-
-- [Huan](https://github.com/huan) [(李卓桓)](http://linkedin.com/in/zixia) Co-author of [Wechaty](https://github.com/wechaty/wechaty), <zixia@zixia.net>
-- Yanping CHEN (陈堰平), Microsoft AI MVP(ex)
-- [Rui](https://github.com/lijiarui),[(李佳芮)](https://lijiarui.github.io) Co-author of [Wechaty](https://github.com/wechaty/wechaty), Founder of [JuziBot](https://www.botorange.com/)

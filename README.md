@@ -10,11 +10,48 @@ Microsoft AI Bootscamp
 
 ## 2019 AI Bootcamp Beijing
 
-![2019 AI Bootcamp Beijing](docs/images/2019-ai-bootcamp-beijing.jpg)
+![AI Bootcamp 2019 - Beijing](docs/images/ai-bootcamp-2019-beijing-poster.jpg)
 
-### Speaker Videos
+### Videos
 
-- Global AI Bootscamp Beijing 2019: [YouTube](https://youtu.be/jKbMFxDw0T4)
+- Live Broadcast Recording: Global AI Bootscamp 2019 - Beijing: <https://youtu.be/jKbMFxDw0T4>
+- Speaker Talk Video Play List: <https://www.youtube.com/playlist?list=PL8hd9KDTdarCWCwVZlF_c5swB_3cve5l2>
+
+#### [MVP & PNP Introduction](https://youtu.be/BflpNwE_UTk)
+
+[![AI Bootcamp 2019 - Beijing](docs/images/bootcamp-2019-talks.png)](https://youtu.be/BflpNwE_UTk)
+
+#### [Conversation as a Platform - 丁煜恒](https://youtu.be/agbfgHXB_fk)
+
+[![AI Bootcamp 2019 - Beijing](docs/images/bootcamp-2019-dingyuheng.png)](https://youtu.be/agbfgHXB_fk)
+
+#### [Clause，开源语义理解系统 - 王海良](https://youtu.be/oQwo7pyqVyw)
+
+[![AI Bootcamp 2019 - Beijing](docs/images/bootcamp-2019-wanghailiang.png)](https://youtu.be/oQwo7pyqVyw)
+
+#### [NLP与强化学习 - 武强](https://youtu.be/YVa342GMpyo)
+
+[![AI Bootcamp 2019 - Beijing](docs/images/bootcamp-2019-wuqiang.png)](https://youtu.be/YVa342GMpyo)
+
+#### [VMware Horizon Cloud on Microsoft Azure - 张一赫](https://youtu.be/BbcHpkkqdfI)
+
+[![AI Bootcamp 2019 - Beijing](docs/images/bootcamp-2019-zhangyihe.png)](https://youtu.be/BbcHpkkqdfI)
+
+#### [利用Azure Machine Learning零代码构建部署企业级AI解决方案 - 张璐](https://youtu.be/oUo6Bkw20NE)
+
+[![AI Bootcamp 2019 - Beijing](docs/images/bootcamp-2019-zhanglu.png)](https://youtu.be/oUo6Bkw20NE)
+
+#### [基于 TensorFlow 的深度学习算法在智慧建筑领域的实践 - 郭成凯](https://youtu.be/mapRY35Ye0s)
+
+[![AI Bootcamp 2019 - Beijing](docs/images/bootcamp-2019-guochengkai.png)](https://youtu.be/mapRY35Ye0s)
+
+#### [如何从0到1搭建 Chatbot - 李佳芮](https://youtu.be/bdq8VNuHvVo)
+
+[![AI Bootcamp 2019 - Beijing](docs/images/bootcamp-2019-lijiarui.png)](https://youtu.be/bdq8VNuHvVo)
+
+#### [微软云动手实验--快速上手人工智能 - 陈堰平](https://youtu.be/QBAbOopjEcg)
+
+[![AI Bootcamp 2019 - Beijing](docs/images/bootcamp-2019-chenyanping.png)](https://youtu.be/QBAbOopjEcg)
 
 ### Organizers
 

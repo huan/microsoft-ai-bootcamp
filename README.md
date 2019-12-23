@@ -15,7 +15,9 @@ Microsoft AI Bootscamp
 ### Videos
 
 - Live Broadcast Recording: Global AI Bootscamp 2019 - Beijing: <https://youtu.be/jKbMFxDw0T4>
-- Speaker Talk Video Play List: <https://www.youtube.com/playlist?list=PL8hd9KDTdarCWCwVZlF_c5swB_3cve5l2>
+- Speaker Talk Video Play List:
+    - <https://www.youtube.com/playlist?list=PL8hd9KDTdarCWCwVZlF_c5swB_3cve5l2>
+    - <https://www.bilibili.com/video/av80153181/>
 
 #### [MVP & PNP Introduction](https://youtu.be/BflpNwE_UTk)
 
